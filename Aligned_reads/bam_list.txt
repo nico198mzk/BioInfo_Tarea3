@@ -1,0 +1,2 @@
+Aligned_reads/L57_sorted.bam
+Aligned_reads/L62_sorted.bam
